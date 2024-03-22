@@ -1,5 +1,12 @@
 #Chức năng:
--Chuyển tiền
--Rút tiền
--Nạp tiền
--Vay
+-Đăng nhập và Đăng ký.
+-Xem thông tin tài khoản.
+-Chuyển khoản tiền.
+-Thanh toán hóa đơn.
+-Gửi và nhận tiền.
+-Quản lý tín dụng.
+-Thực hiện các giao dịch khác.
+-Cài đặt bảo mật.
+-Hỗ trợ khách hàng.
+-Thông báo và cập nhật
+Thông báo

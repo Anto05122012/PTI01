@@ -1,0 +1,11 @@
+Khai báo lớp:
+class <Tenlop>: 
+#thuộc tính
+#phương thức
+Khởi tạo đối tượng:
+<tên đối tượng> = <tên lớp>()
+
+class <tên lớp>:
+    def <tên phương thức> (self, <tham số>
+(nếu có):
+    <khối lệnh>
